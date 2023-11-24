@@ -13,7 +13,7 @@ function App() {
     <div className="main">
       <div className="sidebar">
         <li className="flex-row">
-          <img width="102" src="image/logo_instagram.png" />
+          <img width="116" src="image/logo_instax.png" />
         </li>
         <li className="flex-row sidebar-content">
           <img src="image/icons/1.png" />
